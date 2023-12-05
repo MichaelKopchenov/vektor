@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18010edf.css",
+    "main.js": "/static/js/main.aacd75aa.js",
+    "static/js/787.57f1ee8a.chunk.js": "/static/js/787.57f1ee8a.chunk.js",
+    "static/media/smartphone2.svg": "/static/media/smartphone2.7f0f3011ab526055e57a522471c724bb.svg",
+    "static/media/smartphone1.svg": "/static/media/smartphone1.49f71ea4696a24f769e6c00037338131.svg",
+    "static/media/smartphone5.svg": "/static/media/smartphone5.c239fc7f614af7a45c24288c3deb51a8.svg",
+    "static/media/girl-pan.svg": "/static/media/girl-pan.3331325eeea47096d8a12a93af77c9fa.svg",
+    "static/media/girl-strong.svg": "/static/media/girl-strong.400beddc465e34b69fe76107dd6bf933.svg",
+    "static/media/girl-cont.svg": "/static/media/girl-cont.ff3ad96d087ca101c96dd445e21cf590.svg",
+    "static/media/smartphone4.svg": "/static/media/smartphone4.14587afe3723985d08bfe8780006fbbb.svg",
+    "static/media/girl-table.svg": "/static/media/girl-table.a43f75a2c8c415ccfafbd0395bdac5f6.svg",
+    "static/media/smartphone3.svg": "/static/media/smartphone3.df124c44397d7af9c3bb75c93afa4873.svg",
+    "static/media/girl-think.svg": "/static/media/girl-think.4d039e0684f65c76935a067a903c1490.svg",
+    "static/media/robo.gif": "/static/media/robo.cca22bec740addea21e7.gif",
+    "static/media/ALSHauss-Bold.woff": "/static/media/ALSHauss-Bold.f74197c170ceda63d4d0.woff",
+    "static/media/ALSHauss-Medium.woff": "/static/media/ALSHauss-Medium.e4114059ba1648b492a8.woff",
+    "static/media/ALSHauss-Regular.woff": "/static/media/ALSHauss-Regular.64803caacc03e6a8aa0a.woff",
+    "static/media/laptop.png": "/static/media/laptop.53ab5a0f58057d3f2b7f.png",
+    "static/media/cloud.svg": "/static/media/cloud.5ba86f58ed4c63bb37b2e4afdeb4ed12.svg",
+    "static/media/time.png": "/static/media/time.5bf91e32165a8c6d3f76.png",
+    "static/media/boy.png": "/static/media/boy.2503c9a16ad66e4f3cd0.png",
+    "static/media/resume.png": "/static/media/resume.ade79cd07606fb16df5c.png",
+    "static/media/FDDLogo.svg": "/static/media/FDDLogo.cecbdbaa377d943d741d6a00dbf4e2b4.svg",
+    "static/media/Logo.svg": "/static/media/Logo.8dab84cb92ad179aa965e8f47fb67894.svg",
+    "index.html": "/index.html",
+    "static/media/play-btn.svg": "/static/media/play-btn.9099b8d3374a6e6c806e0e32efa6a701.svg",
+    "main.18010edf.css.map": "/static/css/main.18010edf.css.map",
+    "main.aacd75aa.js.map": "/static/js/main.aacd75aa.js.map",
+    "787.57f1ee8a.chunk.js.map": "/static/js/787.57f1ee8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18010edf.css",
+    "static/js/main.aacd75aa.js"
+  ]
+}
