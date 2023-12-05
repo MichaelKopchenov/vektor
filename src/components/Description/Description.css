@@ -1,0 +1,123 @@
+.description {
+    display: grid;
+    margin-top: 100px;
+    gap: 100px;
+}
+
+.description__contaier {
+    border: 3px solid #A30236;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+}
+
+.description__contaier:nth-of-type(3) {
+    position: relative;
+}
+
+.description__container-image:nth-child(1) {
+    max-width: 350px;
+}
+
+.description__container-btn {
+    position: absolute;
+    top: 45%;
+    right: 10.5%;
+    cursor: pointer;
+}
+
+.description__container-image:nth-child(3) {
+    max-width: 350px;
+}
+
+.description__container-text {
+    color: #3A3A3A;
+    max-width: 500px;
+    text-align: center;
+}
+
+.description__container-text_title {
+    margin: 0 auto 100px;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.description__container-text_subtitle {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.description__contaier:nth-child(2) {
+    flex-direction: row-reverse;
+}
+
+.description__container-btn_two {
+    position: absolute;
+    top: 45%;
+    left: 10.5%;
+    cursor: pointer;
+}
+
+.description__container_cap {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.description__capture {
+    max-width: 350px;
+}
+
+.description__figcapture {
+    position: absolute;
+    color: #3A3A3A;
+    font-weight: 400;
+    font-size: 20px;
+    top: 12%;
+    left: 5%;
+}
+
+.description__container-image:nth-child(5) {
+    max-width: 350px;
+    max-height: 622px;
+}
+
+.description__container-image_strong {
+    max-width: 350px;
+    margin-left: 150px;
+}
+
+.description__contaier:nth-child(4) {
+    flex-direction: row-reverse;
+}
+
+.description__block {
+    display: flex;
+    gap: 90px;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.description__container-image_pan {
+    max-width: 300px;
+}
+
+.description__container-image_smrt {
+    max-width: 350px;
+}
+
+.description__container-text_block {
+    max-width: 900px;
+}
+
+.description__container-text_title_block {
+    max-width: 500px;
+    margin: 40px 0 0;
+}
+
+.description__container-text_subtitle_block {
+    max-width: 500px;
+}
