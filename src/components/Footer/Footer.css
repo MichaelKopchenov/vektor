@@ -1,0 +1,49 @@
+.footer {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+    border-radius: 10px 10px 0px 0px;
+    background: #F7A83D;
+    min-width: 1260px;
+    margin: 160px auto 0;
+}
+
+.footer__fddlogo {
+    max-width: 53px;
+    margin-left: 32px;
+}
+
+.footer__buttons {
+    display: flex;
+    max-width: 600px;
+    gap: 10px;
+    margin-left: 247px;
+}
+
+.footer__btn {
+    background: #F7A83D;
+    border-radius: 5px;
+    border: 1px solid #FFF;
+    max-width: 295px;
+    padding: 0;
+}
+
+.footer__btn-text {
+    margin: 0 67px;
+    padding: 5px 0;
+    max-width: 160px;
+    color: var(--white, #FFF);
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.footer__social {
+    margin-left: 112px;
+}
+
+.footer__social-icon:first-child {
+    margin-right: 15px;
+}

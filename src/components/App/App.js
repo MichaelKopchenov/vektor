@@ -1,19 +1,19 @@
-import Header from '../Header/Header';
+import Container from '../Container/Container';
+import Main from '../Main/Main';
 import Hello from '../Hello/Hello';
-import About from '../About/About';
-import Description from '../Description/Description';
-import Forms from '../Forms/Forms'
+import Desc from '../Desc/Desc';
+import Footer from '../Footer/Footer';
 import './App.css';
 
 function App() {
   return (
-    <>
-      <Header />
+    <Container>
       <Hello />
-      <About />
-      <Description />
-      <Forms />
-    </>
+      <Main>
+        <Desc />
+        <Footer />
+      </Main>
+    </Container>
   );
 };
 

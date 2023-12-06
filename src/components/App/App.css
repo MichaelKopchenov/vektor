@@ -1,6 +1,5 @@
 :root {
-  background: linear-gradient(to top, white,white,white,white,white,white,white,white, white, white,white, rgb(189, 76, 78, .5));
-  max-width: 1280px;
+  max-width: 1920px;
   min-width: 320px;
   min-height: 100vh;
   margin: 0 auto;
