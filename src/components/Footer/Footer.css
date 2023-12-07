@@ -2,7 +2,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    max-width: 1260px;
+    justify-content: space-around;
+    min-width: 1260px;
     border-radius: 10px 10px 0px 0px;
     background: #F7A83D;
     width: 100%;
@@ -12,14 +13,13 @@
 
 .footer__fddlogo {
     max-width: 53px;
-    margin-left: 32px;
 }
 
 .footer__buttons {
     display: flex;
     max-width: 600px;
     gap: 10px;
-    margin-left: 247px;
+    margin-left: 50px;
 }
 
 .footer__btn {
@@ -41,10 +41,6 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-}
-
-.footer__social {
-    margin-left: 112px;
 }
 
 .footer__social-icon:first-child {
