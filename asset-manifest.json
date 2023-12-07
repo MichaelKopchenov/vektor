@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vektor/static/css/main.15372ebe.css",
+    "main.css": "/vektor/static/css/main.c8ffaf18.css",
     "main.js": "/vektor/static/js/main.898241c8.js",
     "static/js/787.57f1ee8a.chunk.js": "/vektor/static/js/787.57f1ee8a.chunk.js",
     "static/media/robo.gif": "/vektor/static/media/robo.cca22bec740addea21e7.gif",
@@ -21,12 +21,12 @@
     "static/media/ico1.svg": "/vektor/static/media/ico1.fb9e46c5a65e981152d1.svg",
     "static/media/ico4.svg": "/vektor/static/media/ico4.24c0e1e8c8ee2834ad82.svg",
     "static/media/ico2.svg": "/vektor/static/media/ico2.8eccdedeff9a915c7701.svg",
-    "main.15372ebe.css.map": "/vektor/static/css/main.15372ebe.css.map",
+    "main.c8ffaf18.css.map": "/vektor/static/css/main.c8ffaf18.css.map",
     "main.898241c8.js.map": "/vektor/static/js/main.898241c8.js.map",
     "787.57f1ee8a.chunk.js.map": "/vektor/static/js/787.57f1ee8a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15372ebe.css",
+    "static/css/main.c8ffaf18.css",
     "static/js/main.898241c8.js"
   ]
 }
