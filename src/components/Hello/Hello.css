@@ -2,7 +2,8 @@
     display: flex;
     flex-direction: column;
     max-width: 340px;
-    margin: 42px auto 22px 0;
+    max-height: 850px;
+    margin: 42px 0 22px 0;
     border-radius: 0px 20px 20px 0px;
     background: linear-gradient(180deg, rgba(247, 168, 61, 0.30) 0%, rgba(255, 244, 241, 0.00) 60%);
     border: 1px solid #F7A83D;

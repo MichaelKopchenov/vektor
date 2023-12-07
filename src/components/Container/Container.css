@@ -2,7 +2,10 @@
 
 .section__container {
     margin: 0;
-    display: flex;
+    display: grid;
+    grid-template-rows: auto auto 1fr;
+    height: 100vh;
+    align-items: end;
   }
   
   /* Адаптив под экраны */

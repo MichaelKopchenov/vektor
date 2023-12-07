@@ -1,13 +1,12 @@
 .main {
-    margin: 47px auto 0;
     max-height: 115px;
+    margin: 47px auto;
 }
 
 .main__container {
     margin: 0 auto;
     display: flex;
     align-items: center;
-    justify-content: center;
 }
 
 .main__container-logo {
@@ -30,7 +29,5 @@
 }
 
 .main__content {
-    display: grid;
-    justify-content: center;
     max-width: 1260px;
 }

@@ -3,7 +3,7 @@ import React from 'react';
 import Logo from '../../images/frame2.svg';
 import './Main.css';
 
-function Main({ children }) {
+function Main() {
     return (
         <section className='main'>
             <div className='main__container'>
@@ -18,9 +18,9 @@ function Main({ children }) {
                     Платформа индивидуализации образовательной траектории
                 </h1>
             </div>
-            <div className='main__content'>
+            {/* <div className='main__content'>
                 {children}
-            </div>
+            </div> */}
         </section>
     );
 };
