@@ -1,8 +1,9 @@
 .desc {
-    margin: 45px auto 0;
+    margin: 45px 212px 0 312px;
     display: grid;
     grid-template-columns: 456px 456px;
     gap: 22px 40px;
+    position: relative;
 }
 
 .desc__block {
@@ -43,4 +44,111 @@
     margin-top: 15px;
     max-width: 155px;
     max-height: 155px;
+}
+
+.desc__block2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    margin: 0 100px;
+}
+
+.desc__block2_container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.desc__block2_three {
+    background-image: url(../../images/smartphone1.svg);
+    min-width: 365px;
+    min-height: 643px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.desc__block2_three_two {
+    background-image: url(../../images/smartphone5.svg);
+}
+
+.desc__block2_three_three {
+    background-image: url(../../images/smartphone2.svg);
+}
+
+.desc__block2_three_four {
+    background-image: url(../../images/smartphone3.svg);
+}
+
+.desc__block2_three_five {
+    background-image: url(../../images/smartphone4.svg);
+}
+
+.desc__title_type {
+    min-width: 510px;
+    color: var(--dark-grey, #3A3A3A);
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.desc__text_type {
+    max-width: 430px;
+    color: var(--dark-grey, #3A3A3A);
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.desc__button {
+    cursor: pointer;
+}
+
+.desc__button_slider {
+    position: absolute;
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #F7A83D;
+    border-radius: 50%;
+    background: none;
+}
+
+.desc__btn_next {
+    top: 35%;
+    right: 8%;
+}
+
+.desc__btn_prev {
+    top: 35%;
+    left: 18%;
+}
+
+.cloud {
+    position: absolute;
+    top: -10%;
+    left: 30%;
+}
+
+.cloud__text {
+    color: var(--dark-grey, #3A3A3A);
+    font-size: 19.666px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    position: absolute;
+    top: -1.5%;
+    left: 33%;
+}
+
+.slider__image {
+    max-width: 350px;
 }

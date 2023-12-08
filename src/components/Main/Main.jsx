@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
 import Logo from '../../images/frame2.svg';
 import './Main.css';
@@ -18,9 +17,6 @@ function Main() {
                     Платформа индивидуализации образовательной траектории
                 </h1>
             </div>
-            {/* <div className='main__content'>
-                {children}
-            </div> */}
         </section>
     );
 };

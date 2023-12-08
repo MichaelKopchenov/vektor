@@ -1,0 +1,6 @@
+.section__slider {
+    display: flex;
+    max-width: 1570px;
+    align-items: center;
+    overflow-x: auto;
+}
