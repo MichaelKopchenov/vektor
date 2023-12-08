@@ -20,7 +20,7 @@ import './Desc.css';
 function Desc() {
     return (
         <Slider>
-            <section className='desc' id='slider'>
+            <section className='desc'>
                 {/* <button className='desc__btn_prev desc__button_slider'></button>
                 <button className='desc__btn_next desc__button_slider'></button> */}
                 <div className='desc__block'>
@@ -84,7 +84,7 @@ function Desc() {
                     </div>
                 </div>
             </section>
-            <section className='desc__block2' id='slider'>
+            <section className='desc__block2'>
                 <img src={GirlThink} alt="Girl"  className='slider__image'/>
                 <div className='desc__block2_container'>
                     <h2 className='desc__title_type'>
@@ -102,7 +102,7 @@ function Desc() {
                     />
                 </div>
             </section>
-            <section className='desc__block2' id='slider'>
+            <section className='desc__block2'>
                 <img src={GirlTable} alt="Girl" className='slider__image'/>
                 <div className='desc__block2_container'>
                     <h2 className='desc__title_type'>
@@ -120,7 +120,7 @@ function Desc() {
                     />
                 </div>
             </section>
-            <section className='desc__block2' id='slider'>
+            <section className='desc__block2'>
                 <img src={GirlStrong} alt="Girl" className='slider__image'/>
                 <img src={Cloud} alt="" className='cloud'/>
                 <p className='cloud__text'>
@@ -142,7 +142,7 @@ function Desc() {
                     />
                 </div>
             </section>
-            <section className='desc__block2' id='slider'>
+            <section className='desc__block2'>
                 <img src={GirlPan} alt="Girl" className='slider__image'/>
                 <div className='desc__block2_container'>
                     <h2 className='desc__title_type'>
@@ -160,7 +160,7 @@ function Desc() {
                     />
                 </div>
             </section>
-            <section className='desc__block2' id='slider'>
+            <section className='desc__block2'>
                 <img src={GirlCont} alt="Girl" className='slider__image'/>
                 <div className='desc__block2_container'>
                     <h2 className='desc__title_type'>

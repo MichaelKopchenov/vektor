@@ -2,5 +2,6 @@
     display: flex;
     max-width: 1570px;
     align-items: center;
-    overflow-x: auto;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
 }
