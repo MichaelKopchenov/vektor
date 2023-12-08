@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vektor/static/css/main.c96ae485.css",
-    "main.js": "/vektor/static/js/main.c869a283.js",
+    "main.css": "/vektor/static/css/main.d06881df.css",
+    "main.js": "/vektor/static/js/main.ddee20db.js",
     "static/js/787.57f1ee8a.chunk.js": "/vektor/static/js/787.57f1ee8a.chunk.js",
     "static/media/smartphone2.svg": "/vektor/static/media/smartphone2.4be1e91d46732e0c5fab.svg",
     "static/media/smartphone1.svg": "/vektor/static/media/smartphone1.2f5717bfa685627a9552.svg",
@@ -37,12 +37,12 @@
     "static/media/ico4.svg": "/vektor/static/media/ico4.24c0e1e8c8ee2834ad82.svg",
     "static/media/ico2.svg": "/vektor/static/media/ico2.8eccdedeff9a915c7701.svg",
     "static/media/play-btn.svg": "/vektor/static/media/play-btn.9099b8d3374a6e6c806e0e32efa6a701.svg",
-    "main.c96ae485.css.map": "/vektor/static/css/main.c96ae485.css.map",
-    "main.c869a283.js.map": "/vektor/static/js/main.c869a283.js.map",
+    "main.d06881df.css.map": "/vektor/static/css/main.d06881df.css.map",
+    "main.ddee20db.js.map": "/vektor/static/js/main.ddee20db.js.map",
     "787.57f1ee8a.chunk.js.map": "/vektor/static/js/787.57f1ee8a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c96ae485.css",
-    "static/js/main.c869a283.js"
+    "static/css/main.d06881df.css",
+    "static/js/main.ddee20db.js"
   ]
 }
