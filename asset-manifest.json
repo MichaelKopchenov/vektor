@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vektor/static/css/main.d06881df.css",
-    "main.js": "/vektor/static/js/main.ddee20db.js",
+    "main.css": "/vektor/static/css/main.5d7d468c.css",
+    "main.js": "/vektor/static/js/main.eb7da060.js",
     "static/js/787.57f1ee8a.chunk.js": "/vektor/static/js/787.57f1ee8a.chunk.js",
     "static/media/smartphone2.svg": "/vektor/static/media/smartphone2.4be1e91d46732e0c5fab.svg",
     "static/media/smartphone1.svg": "/vektor/static/media/smartphone1.2f5717bfa685627a9552.svg",
@@ -26,23 +26,19 @@
     "static/media/telegram-footer.svg": "/vektor/static/media/telegram-footer.738c29d7e2145ac86bbf415a22b42cc9.svg",
     "static/media/sml-logo.svg": "/vektor/static/media/sml-logo.d910283245f0c3450633a548a300ae7e.svg",
     "static/media/frame2.svg": "/vektor/static/media/frame2.b22369f695724c75ecfd9ec99f0dd338.svg",
-    "static/media/slick.svg": "/vektor/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/vektor/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/vektor/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/vk-footer.svg": "/vektor/static/media/vk-footer.147dbf5eb838c17a7df4bc7e14e3cb35.svg",
-    "static/media/slick.woff": "/vektor/static/media/slick.295183786cd8a1389865.woff",
     "static/media/ico3.svg": "/vektor/static/media/ico3.1dbcb9696153985a185d.svg",
     "index.html": "/vektor/index.html",
     "static/media/ico1.svg": "/vektor/static/media/ico1.fb9e46c5a65e981152d1.svg",
     "static/media/ico4.svg": "/vektor/static/media/ico4.24c0e1e8c8ee2834ad82.svg",
     "static/media/ico2.svg": "/vektor/static/media/ico2.8eccdedeff9a915c7701.svg",
     "static/media/play-btn.svg": "/vektor/static/media/play-btn.9099b8d3374a6e6c806e0e32efa6a701.svg",
-    "main.d06881df.css.map": "/vektor/static/css/main.d06881df.css.map",
-    "main.ddee20db.js.map": "/vektor/static/js/main.ddee20db.js.map",
+    "main.5d7d468c.css.map": "/vektor/static/css/main.5d7d468c.css.map",
+    "main.eb7da060.js.map": "/vektor/static/js/main.eb7da060.js.map",
     "787.57f1ee8a.chunk.js.map": "/vektor/static/js/787.57f1ee8a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d06881df.css",
-    "static/js/main.ddee20db.js"
+    "static/css/main.5d7d468c.css",
+    "static/js/main.eb7da060.js"
   ]
 }
