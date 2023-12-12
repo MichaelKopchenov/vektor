@@ -90,7 +90,7 @@ const Desc = () => {
                     </div>
                 </div>
             </section>
-            <section className='desc__block2'>
+            <section className='desc__block2' id='Prof'>
                 <img src={GirlThink} alt="Girl"  className='slider__image'/>
                 <div className='desc__block2_container'>
                     <h2 className='desc__title_type'>
@@ -184,7 +184,7 @@ const Desc = () => {
                     />
                 </div>
             </section>
-            <section className='desc__last'>
+            <section className='desc__last' id='Partner'>
                 <h1 className='desc__last-title'>ХОЧЕШЬ УЗНАТЬ БОЛЬШЕ?</h1>
                 <div className='desc__last-block'>
                     <div className='desc__block'>
