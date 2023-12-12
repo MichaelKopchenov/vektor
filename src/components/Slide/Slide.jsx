@@ -1,7 +1,7 @@
 import React from 'react';
-import './Slider.css';
+import './Slide.css';
 
-export default function Slider({ children }) {
+export default function Slide({ children }) {
 
 function scrolling () {
   const slider = document.getElementById("horizontal-scroller");

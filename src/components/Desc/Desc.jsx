@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import { React } from 'react';
-import Slider from '../Slider/Slider';
+// import Slide from '../Slide/Slide';
 import Laptop from '../../images/laptop.png';
 import Time from '../../images/time.png';
 import Resume from '../../images/resume.png';
@@ -12,11 +12,22 @@ import GirlStrong from '../../images/girl-strong.svg';
 import GirlPan from '../../images/girl-pan.svg';
 import GirlCont from '../../images/girl-cont.svg';
 import Cloud from '../../images/cloud.svg'
+import Slider from 'react-slick';
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 import './Desc.css';
 
-function Desc() {
+const Desc = () => {
+      const settings = {
+        dots: true,
+        infinite: true,
+        speed: 500,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+      };
     return (
-        <Slider>
+        // <Slide>
+        < Slider {...settings}>
             <section className='desc'>
                 <div className='desc__block'>
                     <h2 className='desc__title'>
@@ -137,7 +148,7 @@ function Desc() {
                     />
                 </div>
             </section>
-            <section className='desc__block2'>
+            <section className='desc__block2 mySlides fade'>
                 <img src={GirlPan} alt="Girl" className='slider__image'/>
                 <div className='desc__block2_container'>
                     <h2 className='desc__title_type'>
@@ -174,41 +185,50 @@ function Desc() {
                 </div>
             </section>
             <section className='desc__last'>
-                <h1>ХОЧЕШЬ УЗНАТЬ БОЛЬШЕ?</h1>
+                <h1 className='desc__last-title'>ХОЧЕШЬ УЗНАТЬ БОЛЬШЕ?</h1>
                 <div className='desc__last-block'>
-                <div className='desc__block'>
-                    <h2 className='desc__title'>
-                        ТЫ студент или только планируешь поступление в вуз?
-                    </h2>
-                    <div className='desc__container'>
-                        <p className='desc__text'>
-                            Оставляй заявку на участие в проекте и мы обязательно свяжемся с тобой. Твоя обратная связь поможет нам сделать наш продукт еще лучше!
-                        </p>
-                        <img 
-                            src={Boy} 
-                            alt="Иконка"  
-                            className='desc__image'
-                        />
+                    <div className='desc__block'>
+                        <h2 className='desc__title'>
+                            ТЫ студент или только планируешь поступление в вуз?
+                        </h2>
+                        <div className='desc__container'>
+                            <p className='desc__text'>
+                                Оставляй заявку на участие в проекте и мы обязательно свяжемся с тобой. Твоя обратная связь поможет нам сделать наш продукт еще лучше!
+                            </p>
+                            <img 
+                                src={Boy} 
+                                alt="Иконка"  
+                                className='desc__image'
+                            />
+                        </div>
+                    </div>
+                    <div className='desc__block'>
+                        <h2 className='desc__title'>
+                            ТЫ представитель образовательной организации?
+                        </h2>
+                        <div className='desc__container'>
+                            <p className='desc__text'>
+                                Мы ищем сотрудничества с ВУЗами по всей России, готовы обмениваться идеями и вместе развивать технологии индивидуализации обучения
+                            </p>
+                            <img 
+                                src={Time} 
+                                alt="Иконка"  
+                                className='desc__image'
+                            />
+                        </div>
                     </div>
                 </div>
-                <div className='desc__block'>
-                    <h2 className='desc__title'>
-                        ТЫ представитель образовательной организации?
-                    </h2>
-                    <div className='desc__container'>
-                        <p className='desc__text'>
-                            Мы ищем сотрудничества с ВУЗами по всей России, готовы обмениваться идеями и вместе развивать технологии индивидуализации обучения
-                        </p>
-                        <img 
-                            src={Time} 
-                            alt="Иконка"  
-                            className='desc__image'
-                        />
-                    </div>
-                </div>
+                <div className='desc__last-btns'>
+                    <button className='desc__last-btn'>
+                        Оставить заявку
+                    </button>
+                    <button className='desc__last-btn'>
+                        Оставить заявку
+                    </button>
                 </div>
             </section>
         </Slider>
+        // </Slide>
     );
 };
 
