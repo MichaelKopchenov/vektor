@@ -28,7 +28,7 @@ const Desc = () => {
     return (
         // <Slide>
         < Slider {...settings}>
-            <section className='desc'>
+            <section className='desc' id='Home'>
                 <div className='desc__block'>
                     <h2 className='desc__title'>
                         Разнообразим твой образовательный процесс
@@ -108,7 +108,7 @@ const Desc = () => {
                     />
                 </div>
             </section>
-            <section className='desc__block2'>
+            <section className='desc__block2' id='Test'>
                 <img src={GirlTable} alt="Girl" className='slider__image'/>
                 <div className='desc__block2_container'>
                     <h2 className='desc__title_type'>
@@ -126,11 +126,11 @@ const Desc = () => {
                     />
                 </div>
             </section>
-            <section className='desc__block2'>
+            <section className='desc__block2' id='Career'>
                 <img src={GirlStrong} alt="Girl" className='slider__image'/>
                 <img src={Cloud} alt="" className='cloud'/>
                 <p className='cloud__text'>
-                    Я буду Экономистом!
+                    Я буду <br/> Менеджером проектов!
                 </p>
                 <div className='desc__block2_container'>
                     <h2 className='desc__title_type'>
@@ -148,7 +148,7 @@ const Desc = () => {
                     />
                 </div>
             </section>
-            <section className='desc__block2 mySlides fade'>
+            <section className='desc__block2' id='Traectory'>
                 <img src={GirlPan} alt="Girl" className='slider__image'/>
                 <div className='desc__block2_container'>
                     <h2 className='desc__title_type'>
@@ -166,14 +166,14 @@ const Desc = () => {
                     />
                 </div>
             </section>
-            <section className='desc__block2'>
+            <section className='desc__block2' id='Work'>
                 <img src={GirlCont} alt="Girl" className='slider__image'/>
                 <div className='desc__block2_container'>
                     <h2 className='desc__title_type'>
                         Поможем устроиться на работу мечты
                     </h2>
                     <p className='desc__text_type'>
-                    Сформируем твое резюме, где работодатель увидит подтверждение твоих знаний и навыков, ведь по ходу твоего обучения ты ни раз это докажешь
+                        Сформируем твое резюме, где работодатель увидит подтверждение твоих знаний и навыков, ведь по ходу твоего обучения ты ни раз это докажешь
                     </p>
                 </div>
                 <div className='desc__block2_three desc__block2_three_two'>

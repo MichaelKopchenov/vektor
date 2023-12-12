@@ -17,7 +17,7 @@ function Hello() {
             </div>
             <ul className='hello__menu'>
                 <li className='hello__menu-list'>
-                    <a href="#" className='hello__menu-link'>
+                    <a href="#Test" className='hello__menu-link'>
                         <div className='hello__list-marker hello__list-marker_1' />
                         <p className='hello__menu-text'>
                             Выбор профессии
@@ -25,7 +25,7 @@ function Hello() {
                     </a>
                 </li>
                 <li className='hello__menu-list'>
-                    <a href="#" className='hello__menu-link'>
+                    <a href="#Career" className='hello__menu-link'>
                         <div className='hello__list-marker hello__list-marker_2' />
                         <p className='hello__menu-text'>
                             Карьерная цель
@@ -33,7 +33,7 @@ function Hello() {
                     </a>
                 </li>
                 <li className='hello__menu-list'>
-                    <a href="#" className='hello__menu-link'>
+                    <a href="#Traectory" className='hello__menu-link'>
                         <div className='hello__list-marker hello__list-marker_3' />
                         <p className='hello__menu-text'>
                             Образовательная траектория
@@ -41,7 +41,7 @@ function Hello() {
                     </a>
                 </li>
                 <li className='hello__menu-list'>
-                    <a href="#" className='hello__menu-link'>
+                    <a href="#Work" className='hello__menu-link'>
                         <div className='hello__list-marker hello__list-marker_4' />
                         <p className='hello__menu-text'>
                             Трудоустройство
@@ -65,6 +65,14 @@ function Hello() {
                         Я - Вектор, твой интеллектуальный помощник. Я покажу тебе твою образовательную траекторию, и провожу тебя к желаемой карьерной цели.
                     </p>
                 </div>
+            </div>
+            <div className='hello__menu-home'>
+                <a href="#Home" className='hello__menu-link'>
+                    <div className='hello__list-marker hello__list-marker_5' />
+                    <p className='hello__menu-text'>
+                        В начало
+                    </p>
+                </a>
             </div>
         </section>
     );

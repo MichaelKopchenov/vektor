@@ -1,11 +1,11 @@
 .desc {
-    margin: 45px 212px 0 230px;
+    margin: 45px auto 0;
     display: grid !important;
     grid-template-columns: 456px 456px;
     gap: 22px 40px;
     position: relative;
     flex-shrink: 0;
-    max-width: 1300px;
+    max-width: 950px;
 }
 
 .desc__last {
@@ -191,8 +191,9 @@
     font-weight: 400;
     line-height: normal;
     position: absolute;
-    top: 10%;
-    left: 20.5%;
+    top: 6%;
+    left: 20%;
+    text-align: center;
 }
 
 .slider__image {
