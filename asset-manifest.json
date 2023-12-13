@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vektor/static/css/main.5c3582f2.css",
+    "main.css": "/vektor/static/css/main.81fdcbb3.css",
     "main.js": "/vektor/static/js/main.6a12fd26.js",
     "static/js/787.57f1ee8a.chunk.js": "/vektor/static/js/787.57f1ee8a.chunk.js",
     "static/media/smartphone2.svg": "/vektor/static/media/smartphone2.fa84062999d101d7adb3.svg",
@@ -38,12 +38,12 @@
     "static/media/ico2.svg": "/vektor/static/media/ico2.8eccdedeff9a915c7701.svg",
     "static/media/play-btn.svg": "/vektor/static/media/play-btn.9099b8d3374a6e6c806e0e32efa6a701.svg",
     "static/media/ico5.svg": "/vektor/static/media/ico5.386aed538a653d131606.svg",
-    "main.5c3582f2.css.map": "/vektor/static/css/main.5c3582f2.css.map",
+    "main.81fdcbb3.css.map": "/vektor/static/css/main.81fdcbb3.css.map",
     "main.6a12fd26.js.map": "/vektor/static/js/main.6a12fd26.js.map",
     "787.57f1ee8a.chunk.js.map": "/vektor/static/js/787.57f1ee8a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c3582f2.css",
+    "static/css/main.81fdcbb3.css",
     "static/js/main.6a12fd26.js"
   ]
 }
