@@ -10,7 +10,8 @@ import GirlTable from '../../images/girl-table.svg';
 import GirlStrong from '../../images/girl-strong.svg';
 import GirlPan from '../../images/girl-pan.svg';
 import GirlCont from '../../images/girl-cont.svg';
-import Cloud from '../../images/cloud.svg'
+import Cloud from '../../images/cloud.svg';
+import Traectory from '../../videos/Traectory.mp4'
 import Slider from 'react-slick';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -157,6 +158,13 @@ const Desc = () => {
                     </p>
                 </div>
                 <div className='desc__block2_three desc__block2_three_five'>
+                <iframe 
+                    title='Traectory' 
+                    src={Traectory} 
+                    frameborder="0" 
+                    allow="autoplay; encrypted-media" 
+                    allowfullscreen 
+                />
                     <img 
                         src={PlayBtn} 
                         alt="Button" 
