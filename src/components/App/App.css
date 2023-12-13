@@ -1,6 +1,8 @@
 :root {
   min-width: 320px;
   min-height: 100vh;
+  max-width: 100%;
+  overflow-x: hidden;
   margin: 0 auto;
   font-family: 'ALSHauss';
   color: rgba(242, 244, 250);

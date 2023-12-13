@@ -1,6 +1,5 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import { React } from 'react';
-// import Slide from '../Slide/Slide';
 import Laptop from '../../images/laptop.png';
 import Time from '../../images/time.png';
 import Resume from '../../images/resume.png';
@@ -26,7 +25,6 @@ const Desc = () => {
         slidesToScroll: 1,
       };
     return (
-        // <Slide>
         < Slider {...settings}>
             <section className='desc' id='Home'>
                 <div className='desc__block'>
@@ -228,7 +226,6 @@ const Desc = () => {
                 </div>
             </section>
         </Slider>
-        // </Slide>
     );
 };
 

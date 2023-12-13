@@ -3,7 +3,7 @@
     align-items: center;
     justify-content: center;
     justify-content: space-around;
-    min-width: 1260px;
+    max-width: 1260px;
     border-radius: 10px 10px 0px 0px;
     background: #F7A83D;
     width: 100%;
