@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vektor/static/css/main.bcc4a9f5.css",
-    "main.js": "/vektor/static/js/main.9f0ddb2e.js",
+    "main.js": "/vektor/static/js/main.efbe5cf6.js",
     "static/js/787.57f1ee8a.chunk.js": "/vektor/static/js/787.57f1ee8a.chunk.js",
     "static/media/Career.mp4": "/vektor/static/media/Career.5b6710a68fc629f4f051.mp4",
     "static/media/Traectory.mp4": "/vektor/static/media/Traectory.c23bda3d014d951d5f4d.mp4",
@@ -41,11 +41,11 @@
     "static/media/ico2.svg": "/vektor/static/media/ico2.8eccdedeff9a915c7701.svg",
     "static/media/ico5.svg": "/vektor/static/media/ico5.386aed538a653d131606.svg",
     "main.bcc4a9f5.css.map": "/vektor/static/css/main.bcc4a9f5.css.map",
-    "main.9f0ddb2e.js.map": "/vektor/static/js/main.9f0ddb2e.js.map",
+    "main.efbe5cf6.js.map": "/vektor/static/js/main.efbe5cf6.js.map",
     "787.57f1ee8a.chunk.js.map": "/vektor/static/js/787.57f1ee8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcc4a9f5.css",
-    "static/js/main.9f0ddb2e.js"
+    "static/js/main.efbe5cf6.js"
   ]
 }
