@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/vektor/static/css/main.81fdcbb3.css",
-    "main.js": "/vektor/static/js/main.6a12fd26.js",
+    "main.css": "/vektor/static/css/main.bcc4a9f5.css",
+    "main.js": "/vektor/static/js/main.9f0ddb2e.js",
     "static/js/787.57f1ee8a.chunk.js": "/vektor/static/js/787.57f1ee8a.chunk.js",
+    "static/media/Career.mp4": "/vektor/static/media/Career.5b6710a68fc629f4f051.mp4",
+    "static/media/Traectory.mp4": "/vektor/static/media/Traectory.c23bda3d014d951d5f4d.mp4",
     "static/media/smartphone2.svg": "/vektor/static/media/smartphone2.fa84062999d101d7adb3.svg",
     "static/media/smartphone1.svg": "/vektor/static/media/smartphone1.2f5717bfa685627a9552.svg",
     "static/media/smartphone5.svg": "/vektor/static/media/smartphone5.bc9a7922e4b1708d8d15.svg",
@@ -13,6 +15,7 @@
     "static/media/girl-table.svg": "/vektor/static/media/girl-table.55b57361d2558bd046af43dd5d6083b7.svg",
     "static/media/smartphone3.svg": "/vektor/static/media/smartphone3.6d764a60eb3159f6df3c.svg",
     "static/media/girl-think.svg": "/vektor/static/media/girl-think.92423f54a66e70a4c90ad422725948f2.svg",
+    "static/media/Test.mp4": "/vektor/static/media/Test.f3a67d6cf4144f3ae628.mp4",
     "static/media/robo.gif": "/vektor/static/media/robo.cca22bec740addea21e7.gif",
     "static/media/ALSHauss-Bold.woff": "/vektor/static/media/ALSHauss-Bold.f74197c170ceda63d4d0.woff",
     "static/media/ALSHauss-Medium.woff": "/vektor/static/media/ALSHauss-Medium.e4114059ba1648b492a8.woff",
@@ -36,14 +39,13 @@
     "static/media/ico1.svg": "/vektor/static/media/ico1.fb9e46c5a65e981152d1.svg",
     "static/media/ico4.svg": "/vektor/static/media/ico4.24c0e1e8c8ee2834ad82.svg",
     "static/media/ico2.svg": "/vektor/static/media/ico2.8eccdedeff9a915c7701.svg",
-    "static/media/play-btn.svg": "/vektor/static/media/play-btn.9099b8d3374a6e6c806e0e32efa6a701.svg",
     "static/media/ico5.svg": "/vektor/static/media/ico5.386aed538a653d131606.svg",
-    "main.81fdcbb3.css.map": "/vektor/static/css/main.81fdcbb3.css.map",
-    "main.6a12fd26.js.map": "/vektor/static/js/main.6a12fd26.js.map",
+    "main.bcc4a9f5.css.map": "/vektor/static/css/main.bcc4a9f5.css.map",
+    "main.9f0ddb2e.js.map": "/vektor/static/js/main.9f0ddb2e.js.map",
     "787.57f1ee8a.chunk.js.map": "/vektor/static/js/787.57f1ee8a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81fdcbb3.css",
-    "static/js/main.6a12fd26.js"
+    "static/css/main.bcc4a9f5.css",
+    "static/js/main.9f0ddb2e.js"
   ]
 }
