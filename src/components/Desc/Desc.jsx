@@ -5,26 +5,28 @@ import Time from '../../images/time.png';
 import Resume from '../../images/resume.png';
 import Boy from '../../images/boy.png';
 import GirlThink from '../../images/girl-think.svg';
-import PlayBtn from '../../images/play-btn.svg';
 import GirlTable from '../../images/girl-table.svg';
 import GirlStrong from '../../images/girl-strong.svg';
 import GirlPan from '../../images/girl-pan.svg';
 import GirlCont from '../../images/girl-cont.svg';
 import Cloud from '../../images/cloud.svg';
-import Traectory from '../../videos/Traectory.mp4'
+import Traectory from '../../videos/Traectory.mp4';
+import Test from '../../videos/Test.mp4';
+import Career from '../../videos/Career.mp4'
 import Slider from 'react-slick';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import './Desc.css';
 
 const Desc = () => {
-      const settings = {
-        dots: true,
-        infinite: true,
-        speed: 500,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-      };
+    const settings = {
+    dots: true,
+    infinite: true,
+    speed: 500,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    };
+
     return (
         < Slider {...settings}>
             <section className='desc' id='Home'>
@@ -99,13 +101,7 @@ const Desc = () => {
                         Не можешь определиться с будущей профессией, но есть желание стать востребованным и успешным специалистом?
                     </p>
                 </div>
-                <div className='desc__block2_three'>
-                    <img 
-                        src={PlayBtn} 
-                        alt="Button" 
-                        className='desc__button'
-                    />
-                </div>
+                <div className='desc__block2_three' />
             </section>
             <section className='desc__block2' id='Test'>
                 <img src={GirlTable} alt="Girl" className='slider__image'/>
@@ -118,10 +114,13 @@ const Desc = () => {
                     </p>
                 </div>
                 <div className='desc__block2_three desc__block2_three_three'>
-                    <img 
-                        src={PlayBtn} 
-                        alt="Button" 
-                        className='desc__button'
+                    <video 
+                        className='desc__video'
+                        src={Test} 
+                        controls
+                        autoplay
+                        muted
+                        loop
                     />
                 </div>
             </section>
@@ -140,10 +139,13 @@ const Desc = () => {
                     </p>
                 </div>
                 <div className='desc__block2_three desc__block2_three_four'>
-                    <img 
-                        src={PlayBtn} 
-                        alt="Button" 
-                        className='desc__button'
+                    <video 
+                        className='desc__video'
+                        src={Career} 
+                        controls
+                        autoplay
+                        muted
+                        loop
                     />
                 </div>
             </section>
@@ -158,17 +160,13 @@ const Desc = () => {
                     </p>
                 </div>
                 <div className='desc__block2_three desc__block2_three_five'>
-                <iframe 
-                    title='Traectory' 
-                    src={Traectory} 
-                    frameborder="0" 
-                    allow="autoplay; encrypted-media" 
-                    allowfullscreen 
-                />
-                    <img 
-                        src={PlayBtn} 
-                        alt="Button" 
-                        className='desc__button'
+                    <video 
+                        className='desc__video'
+                        src={Traectory} 
+                        controls
+                        autoplay
+                        muted
+                        loop
                     />
                 </div>
             </section>
@@ -182,13 +180,7 @@ const Desc = () => {
                         Сформируем твое резюме, где работодатель увидит подтверждение твоих знаний и навыков, ведь по ходу твоего обучения ты ни раз это докажешь
                     </p>
                 </div>
-                <div className='desc__block2_three desc__block2_three_two'>
-                    <img 
-                        src={PlayBtn} 
-                        alt="Button" 
-                        className='desc__button'
-                    />
-                </div>
+                <div className='desc__block2_three desc__block2_three_two' />
             </section>
             <section className='desc__last' id='Partner'>
                 <h1 className='desc__last-title'>ХОЧЕШЬ УЗНАТЬ БОЛЬШЕ?</h1>

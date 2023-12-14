@@ -153,6 +153,7 @@
 }
 
 .desc__button {
+    position: absolute;
     cursor: pointer;
     width: 152px;
     height: 147px;
@@ -220,4 +221,10 @@
     font-weight: 700;
     line-height: normal;
     cursor: pointer;
+}
+
+.desc__video {
+    border-radius: 35px;
+    height: 600px;
+    width: 275px;
 }
