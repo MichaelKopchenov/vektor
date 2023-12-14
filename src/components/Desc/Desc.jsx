@@ -118,7 +118,7 @@ const Desc = () => {
                         className='desc__video'
                         src={Test} 
                         controls
-                        autoplay
+                        autoPlay
                         muted
                         loop
                     />
@@ -143,7 +143,7 @@ const Desc = () => {
                         className='desc__video'
                         src={Career} 
                         controls
-                        autoplay
+                        autoPlay
                         muted
                         loop
                     />
@@ -164,7 +164,7 @@ const Desc = () => {
                         className='desc__video'
                         src={Traectory} 
                         controls
-                        autoplay
+                        autoPlay
                         muted
                         loop
                     />
